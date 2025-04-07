@@ -33,4 +33,5 @@ This project uses the Next.js App Router and incorporates:
 ### Fixes
 - Added the back routing to the pages of the admin
 - Added missing context refreshing to the profile of a normal user
+- Now the context is also refreshed in case of token deletion.
 
