@@ -28,3 +28,10 @@ This project uses the Next.js App Router and incorporates:
 
 - **Why:**  
   This centralizes the authentication state. Every page and layout can access the authentication state and the `refreshAuth` function without needing to refresh the whole page using techniques like   `router.refresh()`.
+## Version 2
+
+### Fixes
+-Added the back routing to the pages of the admin
+- Added missing context refreshing to the profile of a normal user
+- 
+
